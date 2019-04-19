@@ -1,0 +1,20 @@
+name: bitbucket-build-status
+version: 0.0.5
+description: Set Bitbucket commit's build status.
+keywords:
+  - notification
+  - status
+  - bitbucket
+properties:
+  username:
+    type: string
+    required: false
+  password:
+    type: string
+    required: false
+  team_name:
+    type: string
+    required: false
+  api_key:
+    type: string
+    required: false
