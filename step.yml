@@ -1,6 +1,6 @@
 name: bitbucket-build-status
 version: 0.0.5
-description: Set Bitbucket commits build status.
+summary: Set Bitbucket commits build status.
 keywords:
   - notification
   - status
