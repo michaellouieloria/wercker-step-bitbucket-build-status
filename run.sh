@@ -57,4 +57,3 @@ fi
 if [ "$RESULT" = "404" ]; then
   fail "Subdomain or token not found."
 fi
-
